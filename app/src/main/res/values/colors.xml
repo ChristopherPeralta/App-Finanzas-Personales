@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="income">#FF34A52B</color>
+    <color name="Expenses">#3F86FC</color>
+    <color name="balance">#FF912C</color>
+
+    <!-- Toolbar -->
+    <color name="toolbar">#F9F9F9</color>
+
+    <!-- Login -->
+    <color name="btn_iniciarSesion">#3F86FC</color>
+    <color name="textColor">#2A2A2A</color>
+
+    <!-- Movements -->
+    <color name="Ingreso">#34A52B</color>
+    <color name="Egreso">#3F86FC</color>
+
+
+</resources>
